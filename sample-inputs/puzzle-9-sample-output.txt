@@ -1,0 +1,13 @@
+Correct: ADE
+Correct: ACE
+Correct: AD
+Correct: AD
+Correct: CE
+Correct: E
+Correct: BC
+Correct: BE
+Correct: ADE
+Correct: AC
+Correct: BE
+Correct: DE
+Answer: SURREALISTIC

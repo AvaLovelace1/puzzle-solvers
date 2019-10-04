@@ -1,0 +1,73 @@
+12
+
+either A B
+incorr A
+neither C D
+corr2 A E
+either A E
+
+either D E
+exactly C E
+either A B
+notboth A C
+corr2 C E
+
+notboth B E
+exactly A D
+corr2 B C
+notboth D E
+incorr A
+
+corr D
+incorr D
+neither A D
+exactly B D
+corr2 B E
+
+exactly B D
+neither A E
+notboth B C
+incorr C
+either D E
+
+corr2 C D
+pigs
+neither C E
+corr2 B E
+notboth B D
+
+corr2 C E
+notboth B D
+sky
+neither A C
+neither C D
+
+incorr B
+either C E
+incorr E
+corr2 B D
+notboth D E
+
+sky
+corr2 C D
+pigs
+either C E
+exactly A C
+
+exactly C D
+corr2 B E
+neither B E
+corr2 D E
+neither A E
+
+neither B E
+incorr D
+notboth B E
+corr2 B C
+exactly B C
+
+notboth D E
+neither B D
+corr2 A D
+exactly C D
+notboth A B

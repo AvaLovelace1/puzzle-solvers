@@ -1,0 +1,11 @@
+10 10
+X   X     
+ O    X   
+   X X O  
+ X  X  O  
+  XOO O O 
+    X     
+  O  X X  
+  X X     
+   X  X O 
+     X   X
